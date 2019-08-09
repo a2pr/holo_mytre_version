@@ -1,6 +1,6 @@
 # packages
-node_modules
+node_modules/
 
 # privy to me
-src/config.json
-src/serviceAccountKey.json
+config.json
+serviceAccountKey.json
